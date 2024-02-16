@@ -1,0 +1,10 @@
+D:\Pertemuan06\Praktikum\P6_3_7142200678\bin\Debug\P6_3_7142200678.exe.config
+D:\Pertemuan06\Praktikum\P6_3_7142200678\bin\Debug\P6_3_7142200678.exe
+D:\Pertemuan06\Praktikum\P6_3_7142200678\bin\Debug\P6_3_7142200678.pdb
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_7142200678.csproj.AssemblyReference.cache
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_714220043.Form1.resources
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_7142200678.Properties.Resources.resources
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_7142200678.csproj.GenerateResource.cache
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_7142200678.csproj.CoreCompileInputs.cache
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_7142200678.exe
+D:\Pertemuan06\Praktikum\P6_3_7142200678\obj\Debug\P6_3_7142200678.pdb

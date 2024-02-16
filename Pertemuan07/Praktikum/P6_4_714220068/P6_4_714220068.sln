@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_4_714220068", "P6_4_714220068.csproj", "{E0EC3D33-F5A5-45E5-8B52-986099ED4BC7}"
+=======
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_4_714220068", "P6_4_714220068.csproj", "{E0EC3D33-F5A5-45E5-8B52-986099ED4BC7}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_4_714220068", "P6_4_714220068.csproj", "{6ACF5EF2-FBD1-4EB2-A44B-551FF674DC43}"
+>>>>>>> c6bae94 (pertemuan 7)
+>>>>>>> 74e7ab4 (tugas7)
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 74e7ab4 (tugas7)
+		{E0EC3D33-F5A5-45E5-8B52-986099ED4BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EC3D33-F5A5-45E5-8B52-986099ED4BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EC3D33-F5A5-45E5-8B52-986099ED4BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EC3D33-F5A5-45E5-8B52-986099ED4BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+=======
+		{6ACF5EF2-FBD1-4EB2-A44B-551FF674DC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACF5EF2-FBD1-4EB2-A44B-551FF674DC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACF5EF2-FBD1-4EB2-A44B-551FF674DC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACF5EF2-FBD1-4EB2-A44B-551FF674DC43}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> c6bae94 (pertemuan 7)
+>>>>>>> 74e7ab4 (tugas7)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
+		SolutionGuid = {ECE79D83-DEF9-4F2E-9DC7-66EE1C27BF0E}
+=======
+<<<<<<< HEAD
+		SolutionGuid = {ECE79D83-DEF9-4F2E-9DC7-66EE1C27BF0E}
+=======
+		SolutionGuid = {045C0C08-D17A-4D2B-8799-308B93EF1077}
+>>>>>>> c6bae94 (pertemuan 7)
+>>>>>>> 74e7ab4 (tugas7)
+	EndGlobalSection
+EndGlobal

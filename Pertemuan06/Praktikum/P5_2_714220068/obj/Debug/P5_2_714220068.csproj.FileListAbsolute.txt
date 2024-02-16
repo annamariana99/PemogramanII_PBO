@@ -1,0 +1,11 @@
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.csproj.AssemblyReference.cache
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.ChildForm.resources
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.ParentForm.resources
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.Properties.Resources.resources
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.csproj.GenerateResource.cache
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.csproj.CoreCompileInputs.cache
+D:\Pertemuan05\Praktikum\P5_2_714220068\bin\Debug\P5_2_714220068.exe.config
+D:\Pertemuan05\Praktikum\P5_2_714220068\bin\Debug\P5_2_714220068.exe
+D:\Pertemuan05\Praktikum\P5_2_714220068\bin\Debug\P5_2_714220068.pdb
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.exe
+D:\Pertemuan05\Praktikum\P5_2_714220068\obj\Debug\P5_2_714220068.pdb

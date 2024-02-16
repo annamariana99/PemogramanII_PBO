@@ -1,0 +1,149 @@
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.AssemblyReference.cache
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.Properties.Resources.resources
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormKaryawan.resources
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormKonsumen.resources
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormLogin.resources
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormRegister.resources
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.ParentForm.resources
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.GenerateResource.cache
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.CoreCompileInputs.cache
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.exe.config
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.exe
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.pdb
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Hash.xxHash.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\MySql.Data.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Buffers.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.IO.Pipelines.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Memory.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Numerics.Vectors.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\ZstdSharp.dll
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.pdb
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Hash.xxHash.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\MySql.Data.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Buffers.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.IO.Pipelines.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Memory.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Numerics.Vectors.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.CopyComplete
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.exe
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.pdb
+D:\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormSparepart.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.exe.config
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.exe
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.pdb
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Hash.xxHash.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\MySql.Data.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Buffers.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.IO.Pipelines.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Memory.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Numerics.Vectors.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\ZstdSharp.dll
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.pdb
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Hash.xxHash.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\MySql.Data.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Buffers.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.IO.Pipelines.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Memory.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Numerics.Vectors.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.AssemblyReference.cache
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.Properties.Resources.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormKaryawan.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormKonsumen.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormLogin.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormRegister.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormSparepart.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormSupplier.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.ParentForm.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.GenerateResource.cache
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.CoreCompileInputs.cache
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.CopyComplete
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.exe
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.pdb
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormPresensi.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormTransaksiKeluar.resources
+D:\Me\Proyek PBO\New folder\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormTransaksiMasuk.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.exe.config
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.exe
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Tubes_714220038_714220068.pdb
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\ZstdSharp.dll
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.pdb
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormKaryawan.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormKonsumen.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormLogin.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormPresensi.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormRegister.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormSparepart.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormSupplier.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormTransaksiKeluar.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.FormTransaksiMasuk.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.view.ParentForm.resources
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.exe
+C:\Users\ASUS\Downloads\Tubes aksesoris motor\Tubes_714220038_714220068\obj\Debug\Tubes_714220038_714220068.pdb
